@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53004bc5-1af2-4f0f-8af7-a07df82cbe86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/traverse/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="53004bc5-1af2-4f0f-8af7-a07df82cbe86" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -467,10 +463,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="931" height="822" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32283464" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.32283464" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -485,7 +480,7 @@
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="TypeScript" order="13" visible="true" weight="0.16027397" />
+      <window_info active="true" anchor="bottom" id="TypeScript" order="13" visible="true" weight="0.16027397" />
       <window_info anchor="right" id="Database" order="0" weight="0.3288948" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="SciView" order="2" weight="0.32936507" />
