@@ -1,0 +1,16 @@
+<p>
+  posts works!
+</p>
+<ul>
+  <li *ngFor="let post of posts">
+    <h2 (click)="postClicked(post)">{{ post.title }}</h2>
+  </li>
+</ul>
+
+<hr>
+Title <input type="text" [(ngModel)]="selectedPost.title"/><br>
+Desc <input type="text" [(ngModel)]="selectedPost.content"/><br>
+Year <input type="text" [(ngModel)]="selectedPost.date_posted"/><br>
+<button (click)="updatePost()">PUT</button>
+<router-outlet></router-outlet>
+
