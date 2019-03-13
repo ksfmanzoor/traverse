@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'places.apps.PlacesConfig',
+    'experiences.apps.ExperiencesConfig',
     'geoposition',
     'taggit',
     'sorl.thumbnail',

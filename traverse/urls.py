@@ -42,6 +42,7 @@ urlpatterns = [
     path('blog/', include('blog.urls')),
     path('places/', include('places.urls')),
     path('', include(router.urls)),
+    path('experiences/', include('experiences.urls'))
 
 ]
 
